@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estou estudando Back-end<br>👯 Estou a procura de Estagio<br>🌱Estou aprendendo Banco de Dados<br>
+🔭 Estou estudando Back-end<br>👯 Estou a procura de Estagio<br>
 
 
 ## 🌐 Socials:
